@@ -1,0 +1,2 @@
+# LogAggregator
+Модуль для Go
